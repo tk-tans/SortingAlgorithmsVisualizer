@@ -6,9 +6,9 @@ This project helps you in better understanding how sorting algorithms work, by v
 ![image](https://user-images.githubusercontent.com/101595124/176741724-60a683cd-2d1e-4605-ac61-7709ad271320.png)
 ![image](https://user-images.githubusercontent.com/101595124/176741542-0b14d6bc-3242-469c-85f5-19ab6a5bf43d.png)
 
-In the project directory, you can run:
-
 ## To Run The Project
+
+In the project directory, you can run:
 
 ### `npm start`
 
